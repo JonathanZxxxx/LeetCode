@@ -49,7 +49,8 @@ namespace Async
             }
             for (int i = 0; i * i <= n; i++)
             {
-                int r = (int)Math.Sqrt(n - i * i); if (i * i + r * r == n)
+                int r = (int)Math.Sqrt(n - i * i); 
+                if (i * i + r * r == n)
                 {
                     if (i == 0 || r == 0) return 1;
                     return 2;
