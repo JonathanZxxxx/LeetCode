@@ -1,5 +1,6 @@
 ﻿namespace Async
 {
+     //二分查找
     public class SearchMatrixClass
     {
         public bool SearchMatrix(int[,] matrix, int target)
@@ -24,6 +25,7 @@
             return false;
         }
 
+        //分治法
         public bool SearchMatrix2(int[,] matrix, int target)
         {
             if (matrix.Length == 0) return false;
