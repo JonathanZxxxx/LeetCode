@@ -1,6 +1,6 @@
 ﻿namespace Async
 {
-     //二分查找
+    //二分查找
     public class SearchMatrixClass
     {
         public bool SearchMatrix(int[,] matrix, int target)
