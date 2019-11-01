@@ -12,3 +12,4 @@ LeetCode刷题
 * ValidParentheses 20. 有效的括号 Valid Parentheses
 * Class33 33. 搜索旋转排序数组 Search in Rotated Sorted Array
 * Class520 520. 检测大写字母 Detect Capital
+* Class813 813. 最大平均值和的分组 Largest Sum of Averages
