@@ -14,3 +14,4 @@ LeetCode刷题
 * Class520 520. 检测大写字母 Detect Capital
 * Class813 813. 最大平均值和的分组 Largest Sum of Averages
 * MergeClass 617. 合并二叉树 Merge Two Binary Trees
+* HammingDistanceClass 461. 汉明距离 Hamming Distance
