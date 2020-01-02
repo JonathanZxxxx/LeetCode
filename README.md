@@ -13,3 +13,4 @@ LeetCode刷题
 * Class33 33. 搜索旋转排序数组 Search in Rotated Sorted Array
 * Class520 520. 检测大写字母 Detect Capital
 * Class813 813. 最大平均值和的分组 Largest Sum of Averages
+* MergeClass 617. 合并二叉树 Merge Two Binary Trees
