@@ -15,3 +15,4 @@ LeetCode刷题
 * Class813 813. 最大平均值和的分组 Largest Sum of Averages
 * MergeClass 617. 合并二叉树 Merge Two Binary Trees
 * HammingDistanceClass 461. 汉明距离 Hamming Distance
+* InvertTreeClass 226. 翻转二叉树 Invert Binary Tree
