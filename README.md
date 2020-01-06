@@ -16,3 +16,4 @@ LeetCode刷题
 * MergeClass 617. 合并二叉树 Merge Two Binary Trees
 * HammingDistanceClass 461. 汉明距离 Hamming Distance
 * InvertTreeClass 226. 翻转二叉树 Invert Binary Tree
+* MaxDepthClass 104. 二叉树的最大深度 Maximum Depth of Binary Tree
