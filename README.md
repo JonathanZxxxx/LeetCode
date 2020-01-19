@@ -20,3 +20,4 @@ LeetCode刷题
 * ReverseListClass 206. 反转链表 Reverse Linked List
 * MergeTwoListsClass 21. 合并两个有序链表 Merge Two Sorted Lists
 * MoveZeroesClass 283. 移动零 Move Zeroes
+* ConvertBSTClass 538. 把二叉搜索树转换为累加树 Convert BST to Greater Tree
